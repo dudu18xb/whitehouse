@@ -5984,3 +5984,18 @@ footer .wpml-ls-item-legacy-dropdown-click a {
 .jogadoresview .thumbnail {
     text-align: center;
 }
+
+.desenvlvedor-page a {
+    color: #000;
+    font-weight: 600;
+}
+.desenvlvedor-page {
+    text-align: center;
+}
+.navbar button.navbar-toggle {
+    color: #fff !important;
+}
+
+.navbar:not(.navbar-transparent) .navbar-nav > li:not(.btn) > a:hover {
+    color: #000 !important;
+}

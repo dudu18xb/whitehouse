@@ -9,6 +9,9 @@
  */
 ?>
 			<?php do_action( 'hestia_do_footer' ); ?>
+			<div class="desenvlvedor-page">
+				Desenvolvidor por <a href="https://blog-eduardo-rocha.000webhostapp.com/">Eduardo Rocha</a>
+			</div>
 		</div>
 	</div>
 <?php wp_footer(); ?>
